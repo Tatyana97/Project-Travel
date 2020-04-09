@@ -1,0 +1,23 @@
+{
+  "name": "travel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tatyana97/Project-Travel.git"
+  },
+  "author": "Miranovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tatyana97/Project-Travel/issues"
+  },
+  "homepage": "https://github.com/Tatyana97/Project-Travel#readme",
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
